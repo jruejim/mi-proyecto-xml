@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rutas.xsl"?>
+<rutas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="rutas.xsd">
+
+    <ruta>
+        <nombre>Sendero Circular Vilaflor</nombre>
+        <pais>España</pais>
+        <dificultad>moderada</dificultad>
+        <puntosInteres>
+            <punto>
+                <nombre>Pinar de Vilaflor</nombre>
+                <descripcion>Bosque de pinos canarios con vistas al Teide.</descripcion>
+            </punto>
+            <punto>
+                <nombre>Fuente de Madre del Agua</nombre>
+                <descripcion>Área natural con fuente y merenderos rodeados de vegetación autóctona.</descripcion>
+            </punto>
+            <punto>
+                <nombre>Lava solidificada</nombre>
+                <descripcion>Formaciones volcánicas visibles a lo largo del camino.</descripcion>
+            </punto>
+        </puntosInteres>
+    </ruta>
+
+    <ruta>
+        <nombre>Ruta del Cares</nombre>
+        <pais>España</pais>
+        <dificultad>moderada</dificultad>
+        <puntosInteres>
+            <punto>
+                <nombre>Garganta del Cares</nombre>
+                <descripcion>Espectacular desfiladero en los Picos de Europa.</descripcion>
+            </punto>
+            <punto>
+                <nombre>Canal de la Riera</nombre>
+                <descripcion>Camino tallado en la roca junto al río Cares.</descripcion>
+            </punto>
+        </puntosInteres>
+    </ruta>
+
+    <ruta>
+        <nombre>Tour du Mont Blanc</nombre>
+        <pais>Francia</pais>
+        <dificultad>moderada</dificultad>
+        <puntosInteres>
+            <punto>
+                <nombre>Col de la Seigne</nombre>
+                <descripcion>Frontera entre Francia e Italia con vistas alpinas.</descripcion>
+            </punto>
+            <punto>
+                <nombre>Val Veny</nombre>
+                <descripcion>Valle italiano lleno de flora alpina.</descripcion>
+            </punto>
+        </puntosInteres>
+    </ruta>
+
+    <ruta>
+        <nombre>Caminito del Rey</nombre>
+        <pais>España</pais>
+        <dificultad>difícil</dificultad>
+        <puntosInteres>
+            <punto>
+                <nombre>Pasarela sobre el Desfiladero de los Gaitanes</nombre>
+                <descripcion>Camino suspendido en la roca con vistas espectaculares.</descripcion>
+            </punto>
+        </puntosInteres>
+    </ruta>
+
+    <ruta>
+        <nombre>John Muir Trail</nombre>
+        <pais>Estados Unidos</pais>
+        <dificultad>difícil</dificultad>
+        <puntosInteres>
+            <punto>
+                <nombre>Parque Nacional de Yosemite</nombre>
+                <descripcion>Vistas icónicas del Half Dome y El Capitán.</descripcion>
+            </punto>
+            <punto>
+                <nombre>Monte Whitney</nombre>
+                <descripcion>Pico más alto de los Estados Unidos contiguos.</descripcion>
+            </punto>
+        </puntosInteres>
+    </ruta>
+
+</rutas>
